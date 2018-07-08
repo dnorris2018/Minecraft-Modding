@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kw",
+  "name": "KnightWolf Mod",
+  "description": "A mod that combines Tech and Magic.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KnightWolf"],
+  "credits": "KnightWolf",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
