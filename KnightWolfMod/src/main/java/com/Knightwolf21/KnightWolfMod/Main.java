@@ -1,5 +1,6 @@
 package com.Knightwolf21.KnightWolfMod;
 
+import com.Knightwolf21.KnightWolfMod.init.ModRecipes;
 import com.Knightwolf21.KnightWolfMod.proxy.CommonProxy;
 import com.Knightwolf21.KnightWolfMod.util.Reference;
 import net.minecraftforge.fml.common.Mod;
@@ -28,7 +29,7 @@ public class Main
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		
+		ModRecipes.init();
 	}
 	
 	@EventHandler

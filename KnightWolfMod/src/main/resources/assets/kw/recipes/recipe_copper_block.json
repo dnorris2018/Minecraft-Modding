@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OOO",
+        "OOO",
+        "OOO"    
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "kw:ingot_copper"
+        }    
+    },
+    
+    "result":
+    {
+        "item": "kw:ore_copper",
+        "count": 1
+    }
+}

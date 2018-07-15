@@ -1,0 +1,61 @@
+//Items
+//Ingots
+item.ingot_adamantium.name=Adamantium Ingot
+item.ingot_aluminum.name=Aluminum Ingot
+item.ingot_ardite.name=Ardite Ingot
+item.ingot_cobalt.name=Cobalt Ingot
+item.ingot_copper.name=Copper Ingot
+item.ingot_iridium.name=Iridium Ingot
+item.ingot_lead.name=Lead Ingot
+item.ingot_magnesium.name=Magnesium Ingot
+item.ingot_mercury.name=Mercury Ingot
+item.ingot_neptunium.name=Neptunium Ingot
+item.ingot_nickel.name=Nickel Ingot
+item.ingot_nthmetal.name=Nth Metal Ingot
+item.ingot_osmium.name=Osmium Ingot
+item.ingot_platinum.name=Platinum Ingot
+item.ingot_plutonium.name=Plutonium Ingot
+item.ingot_silver.name=Silver Ingot
+item.ingot_thorium.name=Thorium Ingot
+item.ingot_tin.name=Tin Ingot
+item.ingot_titanium.name=Titanium Ingot
+item.ingot_tungsten.name=Tungsten Ingot
+item.ingot_uranium.name=Uranium Ingot
+item.ingot_uru.name=Uru Ingot
+item.ingot_vibranium.name=Vibranium Ingot
+item.ingot_yellorite.name=Yellorite Ingot
+
+
+// Ores
+// Metal Ores
+tile.ore_adamantium.name=Adamantium Ore
+tile.ore_aluminum.name=Aluminum Ore
+tile.ore_ardite.name=Ardite Ore
+tile.ore_cobalt.name=Cobalt Ore
+tile.ore_copper.name=Copper Ore
+tile.ore_iridium.name=Iridium Ore
+tile.ore_lead.name=Lead Ore
+tile.ore_magnesium.name=Magnesium Ore
+tile.ore_mercury.name=Mercury Ore
+tile.ore_neptunium.name=Neptunium Ore
+tile.ore_nickel.name=Nickel Ore
+tile.ore_nthmetal.name=Nth Metal Ore
+tile.ore_osmium.name=Osmium Ore
+tile.ore_platinum.name=Platinum Ore
+tile.ore_plutonium.name=Plutonium Ore
+tile.ore_silver.name=Silver Ore
+tile.ore_thorium.name=Thorium Ore
+tile.ore_tin.name=Tin Ore
+tile.ore_titanium.name=Titanium Ore
+tile.ore_tungsten.name=Tungsten Ore
+tile.ore_uranium.name=Uranium Ore
+tile.ore_uru.name= Uru Ore
+tile.ore_vibranium.name=Vibranium Ore
+tile.ore_yellorite.name=Yellorite Ore
+
+//tools
+item.copper_sword.name=Copper Sword
+item.copper_shovel.name=Copper Shovel
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_axe.name=Copper Axe
+item.copper_hoe.name=Copper Hoe
